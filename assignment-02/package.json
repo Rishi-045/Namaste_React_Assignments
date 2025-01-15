@@ -1,0 +1,33 @@
+{
+  "name": "assignment-02",
+  "version": "1.0.0",
+  "description": "this is namaste react by akshay saini",
+  "homepage": "https://github.com/Rishi-045/Namaste_React_Assignments#readme",
+  "bugs": {
+    "url": "https://github.com/Rishi-045/Namaste_React_Assignments/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi-045/Namaste_React_Assignments.git"
+  },
+  "license": "ISC",
+  "author": "akshay saini",
+  "type": "commonjs",
+ 
+  "scripts": {
+    "test": "jest",
+    "start":"parcel serve coding/index.html",
+    "build":"parcel build coding/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserList": [
+    "last 2 version"
+  ]
+}
