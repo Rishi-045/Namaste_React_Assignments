@@ -1,5 +1,7 @@
 # Theory Assignment:
+
 ● - What is `NPM`?
+npm is a default package manager for node.js and a powerful tool for managing javaScript dependencies.it allows devlopers to install, share and manages libraries and tools for their project.
 ● - What is `Parcel/Webpack`? Why do we need it?
 ● - What is `.parcel-cache`
 ● - What is `npx` ?
@@ -16,4 +18,4 @@ own words.
 ● - What is `browserlists`
 ● Read about dif bundlers: vite, webpack, parcel
 ● Read about: ^ - caret and ~ - tilda
-● Read about Script types in html 
+● Read about Script types in html
